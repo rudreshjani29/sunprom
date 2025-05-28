@@ -23,21 +23,6 @@ Solar Utility Network for Predictive Revenue and Operational Maintainence
 
 ---
 
-## 📁 Repo Structure
-
-- `src/` – Core modules for data preprocessing, prediction, and maintenance alerts
-- `assets/` – Data samples, graphs, system diagrams
-- `requirements.txt` – Dependencies for running the system
-
----
-
-## 📊 Sample Output
-
-<img src="assets/model_results.png" width="500">
-_Predicted vs Actual Solar Revenue Over 30 Days_
-
----
-
 ## 🧠 Learning Goals
 
 - Apply data-driven methods to energy tech
@@ -49,8 +34,7 @@ _Predicted vs Actual Solar Revenue Over 30 Days_
 ## 📌 Author
 
 Rudresh Jani  
-Email: [your.email@example.com]  
-GitHub: [github.com/rudreshjani](https://github.com/rudreshjani)
+GitHub: [github.com/rudreshjani29](https://github.com/rudreshjani29)
 
 ---
 
